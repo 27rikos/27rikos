@@ -15,3 +15,4 @@
     <img src="https://skillicons.dev/icons?i=laravel,bootstrap" alt="Frameworks & Libraries Icons" />
   </a>
 </div>
+<img src="https://img.shields.io/badge/currently-online-green">
