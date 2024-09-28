@@ -12,6 +12,6 @@
 <p><strong>Frameworks & Libraries:</strong></p>
 <div style="text-align:center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,bootstrap,mysql" alt="Frameworks & Libraries Icons" />
+    <img src="https://skillicons.dev/icons?i=laravel,bootstrap" alt="Frameworks & Libraries Icons" />
   </a>
 </div>
