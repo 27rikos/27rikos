@@ -8,12 +8,10 @@
     <img src="https://skillicons.dev/icons?i=php,js,html,css" alt="Programming Languages Icons" />
   </a>
 </div>
-
 <p><strong>Frameworks & Libraries:</strong></p>
 <div style="text-align:center;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,bootstrap" alt="Frameworks & Libraries Icons" />
   </a>
 </div>
-<!-- <img src="https://img.shields.io/badge/currently-online-green">
- -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=27rikos)](https://github.com/27rikos/github-readme-stats)
