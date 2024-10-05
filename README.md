@@ -14,5 +14,4 @@
     <img src="https://skillicons.dev/icons?i=laravel,bootstrap" alt="Frameworks & Libraries Icons" />
   </a>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=27rikos&show_icons=true&theme=radical)](https://github.com/27rikos)
 
