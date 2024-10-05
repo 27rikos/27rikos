@@ -15,5 +15,6 @@
     <img src="https://skillicons.dev/icons?i=laravel,bootstrap" alt="Frameworks & Libraries Icons" />
   </a>
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <img src="https://img.shields.io/badge/currently-online-green">
  -->
