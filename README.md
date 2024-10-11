@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 👀 About Me
-- 🌱 I’m currently learning **[insert technologies you're learning]**
+- 🌱 I’m currently learning **Laravel and javascript**
 - 💻 I’m passionate about **web development
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love exploring new technologies and solving real-world problems!**
