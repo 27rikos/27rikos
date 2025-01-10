@@ -16,3 +16,8 @@
 ### 📈 GitHub Stats
 
 ![Riko's GitHub stats](https://github-readme-stats.vercel.app/api?username=27rikos&show_icons=true&theme=radical)
+
+### 📊 Most Used Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=27rikos&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
