@@ -1,6 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rikos+%F0%9F%91%8B;Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+JavaScript)](https://git.io/typing-svg)
+<h1>Hi, I'm Rikos 👋</h1>
+
+<p>
+  <strong>Full-Stack Web Developer</strong> · Laravel · PHP · JavaScript
+</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=27rikos&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
@@ -12,30 +16,36 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Web Developer** focused on building clean, efficient, and scalable web applications. I enjoy turning complex problems into simple, beautiful solutions.
+I'm a **Full-Stack Web Developer** focused on building reliable, maintainable, and scalable web applications. I primarily work with the **Laravel ecosystem**, combining backend development with modern frontend technologies to build practical and user-focused solutions.
 
-- 🔭 Currently working on **Laravel-based web applications**
-- 🌱 Always learning and improving my craft
-- 💬 Ask me about **PHP, Laravel, JavaScript**
-- ⚡ Fun fact: I love clean code and clean UI equally
+My interests include **web application development, backend architecture, database design, and system development**. I enjoy solving real-world problems, designing efficient application logic, and continuously improving the quality and maintainability of the software I build.
+
+- 🔭 Currently developing **Laravel-based web applications and business systems**
+- 💻 Focused on **PHP, Laravel, Livewire, JavaScript, and modern web technologies**
+- 🧩 Experienced in building **administrative systems, SaaS applications, and data-driven web applications**
+- 🗄️ Comfortable working with **relational databases, application architecture, and backend logic**
+- 🌱 Continuously learning and exploring better approaches to **software architecture and scalable systems**
+- ⚡ I value **clean code, maintainable architecture, and simple solutions to complex problems**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend & Build Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,alpinejs,bootstrap,vite" alt="Frontend Tech Stack" />
 </p>
 
 ### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend Tech Stack" />
-  <!-- Catatan: Livewire menggunakan icon kustom karena belum ada di skill-icons bawaan -->
-  <img src="https://img.shields.io/badge/Livewire-%234E56A6.svg?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"/>
+  <img src="https://cdn.simpleicons.org/livewire" alt="Livewire" width="48" height="48" />
 </p>
 
 ### Database & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,nodejs,npm,mysql,sqlite,git,terminal" alt="Tools & Database Tech Stack" />
 </p>
@@ -43,5 +53,7 @@ I'm a passionate **Full-Stack Web Developer** focused on building clean, efficie
 ---
 
 <div align="center">
-  <i>✨ "First, solve the problem. Then, write the code." – John Johnson</i>
+
+<i>✨ "First, solve the problem. Then, write the code." – John Johnson</i>
+
 </div>
