@@ -23,27 +23,22 @@ I'm a passionate **Full-Stack Web Developer** focused on building clean, efficie
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<div>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</div>
+### Frontend & Build Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,alpinejs,bootstrap,vite" alt="Frontend Tech Stack" />
+</p>
 
 ### Backend
-<div>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend Tech Stack" />
+  <!-- Catatan: Livewire menggunakan icon kustom karena belum ada di skill-icons bawaan -->
   <img src="https://img.shields.io/badge/Livewire-%234E56A6.svg?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"/>
-</div>
+</p>
 
 ### Database & Tools
-<div>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,nodejs,npm,mysql,sqlite,git,terminal" alt="Tools & Database Tech Stack" />
+</p>
 
 ---
 
